@@ -9,13 +9,16 @@ Run this project in Google Colab.
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-
 # Requirements 
 - Pandas
 - NumPy
 - Scikit-Learn
 - Matplotlib
 - Seaborn
+
+# Dataset 
+- Telco customer churn: IBM dataset [Download link](https://www.kaggle.com/datasets/yeanzc/telco-customer-churn-ibm-dataset/code)
+- Put the Extracted data into the ./data folder.
 
 # Data Visualization 
 ![Image](images/Attribute_histogram_plots.png)
