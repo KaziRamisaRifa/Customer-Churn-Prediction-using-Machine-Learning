@@ -25,9 +25,6 @@ Run this project in Google Colab.
 
 
 # Reuslt (Confusion Matrix)
-## Comprehensive summary 
-
-From the model evaluation, we can see that out of 3 machine learning algorithms, Random Forest provides the highest accuracy for predicting the number of churn customers, **94%** after hyper-tuning the parameters. Before hyper-tuning, it was 92%. of the ROC and AUC scores; we can also interpret that both the **Decision Tree** and **Random forest** algorithms are efficient in predicting future churn values. We can state from the overall evaluation outcomes that **Random Forest** performs slightly better than the other two algorithms.
 
 ## Random Forrenst Model 
 ![Corelation](images/Random_Forest_cm.png)
@@ -36,6 +33,9 @@ From the model evaluation, we can see that out of 3 machine learning algorithms,
 
 ![Corelation](images/Logistic_Regression_cm.png)
 
+## Comprehensive summary 
+
+From the model evaluation, we can see that out of 3 machine learning algorithms, Random Forest provides the highest accuracy for predicting the number of churn customers, **94%** after hyper-tuning the parameters. Before hyper-tuning, it was 92%. of the ROC and AUC scores; we can also interpret that both the **Decision Tree** and **Random forest** algorithms are efficient in predicting future churn values. We can state from the overall evaluation outcomes that **Random Forest** performs slightly better than the other two algorithms.
 
 ## Contributing
 
@@ -47,4 +47,4 @@ From the model evaluation, we can see that out of 3 machine learning algorithms,
 
 ## Credits
 
-This project was created by [KaziRamisaRifa](https://github.com/kaziramisarifa).
+This project was created by [KaziRamisaRifa](https://github.com/kaziramisarifa). An Standalone Machine Learning Project From Scratch.
